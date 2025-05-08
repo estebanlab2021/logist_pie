@@ -11,3 +11,5 @@
 <p>En este sentido, se usará la regresión logística para analizar la relación entre un conjunto de variables predictoras y un resultado binario, adicionalmente, se dividirá el conjunto de datos en entrenamiento y prueba, donde se aprovechará el  potencial de la validación cruzada y la evaluación del rendimiento del modelo mediante la precisión, recall, F1-score y la curva ROC (Receiver Operating Characteristic).</p>
 
 <p>El resultado se puede ver en siguiente link: https://estebanlab2021.github.io/logist_pie/ </p>
+
+<p>Un segundo análisis donde se repirió el análisis pero con huesos separados, se presenta en el siguiente link: https://estebanlab2021.github.io/logist_pie/analsis_fragmentado_nuevo.html </p>
